@@ -509,6 +509,7 @@ ul.nav-links li a:hover{
     font-size: 7rem;
     color: #3a3939;
     filter: opacity(0.3);
+    z-index: -1;
 }
 
 .acquired-skills{
